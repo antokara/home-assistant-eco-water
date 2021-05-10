@@ -1,0 +1,14 @@
+
+{
+    "name": "Ecowater",
+    "content_in_root": false,
+    "zip_release": false,
+    "hacs": "1.6.0",
+    "domains": [
+        "binary_sensor",
+        "switch"
+    ],
+    "country": "US",
+    "homeassistant": "core-2021.4.6",
+    "iot_class": "Cloud Polling"
+}
